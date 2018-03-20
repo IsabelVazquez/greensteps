@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'mail_interceptor'
+gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
 gem 'pg', '~> 0.18'
 gem 'pry'
 gem 'puma', '~> 3.0'
